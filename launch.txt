@@ -1,0 +1,2 @@
+cd python projects\task7fractals
+C:\Users\Yaroslav\AppData\Local\Programs\Python\Python310\Scripts\jupyter-notebook.exe
